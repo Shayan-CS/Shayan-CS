@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shayan Syed</h1>
-<h3 align="center">Aspiring AI/ML Systems Engineer</h3>
+<h3 align="center">Aspiring AI/ML Systems Engineer
+</h3>
 
 
 - 🌱 I’m currently learning **Librosa & PyTorch**  

@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shayan Syed</h1>
 <h3 align="center">Aspiring AI/ML Systems Engineer</h3>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Shayan-CS" alt="Shayan-CS" />
-  </a>
-</p>
-
 - 🌱 I’m currently learning **Librosa & PyTorch**  
 - 👯 I’m looking to collaborate on **AI/ML Projects**  
 - 💬 Ask me about **AI & ML**  
